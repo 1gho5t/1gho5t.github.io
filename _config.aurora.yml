@@ -16,8 +16,8 @@ site:
   link: '/'
   language: en
   multi_language: true
-  logo:
-  avatar:
+  logo: https://ik.imagekit.io/bennyxguo/ObsidianestLogo-hex_hecqbw.png?updatedAt=1692679397324
+  avatar: https://smms.app/image/LEegP4YrD2UyxsS
   beian:
     number: ''
     link: ''
