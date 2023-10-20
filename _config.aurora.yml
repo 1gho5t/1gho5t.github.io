@@ -121,7 +121,7 @@ gitalk:
   language: en
   distractionFreeMode: true
   recentComment: true
-  proxy: ''
+  proxy: 'https://worker-polished-bar-77fa.numeroussu.workers.dev/https://github.com/login/oauth/access_token'
 
 # Valine comment plugin (recommended!)
 # see https://valine.js.org/quickstart.html
