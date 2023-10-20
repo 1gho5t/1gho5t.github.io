@@ -114,7 +114,7 @@ gitalk:
   autoExpand: true
   clientID: 'df65904f47b4784affce'
   clientSecret: 'd1c48da58cf1219a6f477d49d6a4af981d9ee6b9'
-  repo: 'https://github.com/1gho5t/1gho5t.github.io' ## dev-blo-comments
+  repo: '1gho5t.github.io' ## dev-blo-comments
   owner: '1gho5t' ## owner name
   admin: ['1gho5t'] ## ['admin_name']
   id: uid
