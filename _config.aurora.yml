@@ -121,7 +121,7 @@ gitalk:
   language: en
   distractionFreeMode: true
   recentComment: true
-  proxy: ''
+  proxy: 'https://proxy.cors.sh/https://github.com/login/oauth/access_token'
 
 # Valine comment plugin (recommended!)
 # see https://valine.js.org/quickstart.html
