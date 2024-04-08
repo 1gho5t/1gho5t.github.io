@@ -78,9 +78,9 @@ socials:
   customs:
   ##! Example:
   ##! --- Using SVG
-  bilibili:
-  icon: /svg/bilibili.svg 
-  link: https://space.bilibili.com/4466788
+    bilibili:
+      icon: /svg/bilibili.svg 
+      link: https://space.bilibili.com/4466788
 
   ##! --- Using IconFont
   # baidu:
