@@ -9,10 +9,10 @@
 #！ @docs https://aurora.tridiamond.tech/guide/configuration.html
 #! ---------------------------------------------------------------
 site:
-  subtitle: 1gho5t's Blog
-  author: 1gho5t
-  nick: 5uwu
-  description: When you have eliminated the impossibles, whatever remains, however improbable, must be the truth
+  subtitle: 璐粟記
+  author: 璐粟記
+  nick: 1gho5t
+  description: 离甘之璐, 无饴于粟
   link: '/'
   language: en
   multi_language: true
